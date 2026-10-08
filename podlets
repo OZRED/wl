@@ -1,13 +1,10 @@
 {
-  "subscriptionName": "podlets",
-  "description": "Мой VPS",
-  "trafficUsedMb": 608.93,
-  "trafficLimitMb": 0,
-  "updatedAt": "2026-10-08",
+  "subscriptionName": "t.me/podlets_tool",
+  "description": "Используйте только когда включены белые списки",
   "version": 1,
   "profiles": [
     {
-      "name": "podletss",
+      "name": "Stokgolm (test)",
       "peer": "138.124.29.213",
       "password": "podlets",
       "hashes": "_OwGt4d-RZTe7TAG4vEpwlWlg3k258vuYMw6fYn75sM",

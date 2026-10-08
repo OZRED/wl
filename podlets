@@ -1,5 +1,10 @@
 {
   "subscriptionName": "podlets",
+  "description": "Мой VPS",
+  "trafficUsedMb": 608.93,
+  "trafficLimitMb": 0,
+  "updatedAt": "2026-10-08",
+  "version": 1,
   "profiles": [
     {
       "name": "podlets",

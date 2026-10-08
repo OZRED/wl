@@ -1,0 +1,13 @@
+{
+  "subscriptionName": "podlets",
+  "profiles": [
+    {
+      "name": "podlets",
+      "peer": "138.124.29.213",
+      "password": "podlets",
+      "hashes": "_OwGt4d-RZTe7TAG4vEpwlWlg3k258vuYMw6fYn75sM",
+      "workers": 16,
+      "port": 9000
+    }
+  ]
+}

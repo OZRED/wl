@@ -1,10 +1,11 @@
 {
   "subscriptionName": "t.me/podlets_tool",
   "description": "Используйте только когда включены белые списки",
+  "updatedAt": "12",
   "version": 1,
   "profiles": [
     {
-      "name": "Stokgolm (test)",
+      "name": "Stokgolm (testik)",
       "peer": "138.124.29.213",
       "password": "podlets",
       "hashes": "_OwGt4d-RZTe7TAG4vEpwlWlg3k258vuYMw6fYn75sM",

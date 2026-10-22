@@ -1,16 +1,19 @@
 {
-  "subscriptionName": "t.me/podlets_tool",
-  "description": "Используйте только когда включены белые списки",
-  "updatedAt": "12",
+  "subscriptionName": "Podlets Tools",
+  "description": "Обход белых списков. Используйте при активных ограничениях.",
+  "updatedAt": "2026-10-22 15:00",
+  "trafficUsedMb": 1280.5,
+  "trafficLimitMb": 10240,
   "version": 1,
   "profiles": [
     {
-      "name": "Stokgolm (testik)",
+      "name": "🇸🇪 Стокгольм #1",
       "peer": "138.124.29.213",
+      "port": 9000,
       "password": "podlets",
-      "hashes": "_OwGt4d-RZTe7TAG4vEpwlWlg3k258vuYMw6fYn75sM",
-      "workers": 16,
-      "port": 9000
+      "hashes": "_OwGt4d-RZTe7TAG4vEpwlWlg3k258vuYMw6fYn75sM,VnHW6doGcirP6h24GMay0kLFkdvAzTdaltvIHNX3z7M",
+      "workers": 27,
+      "trafficMb": 1280.5
     }
   ]
 }

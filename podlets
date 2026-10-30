@@ -1,9 +1,7 @@
 {
   "subscriptionName": "Podlets Tools",
   "description": "Обход белых списков. Используйте при активных ограничениях.",
-  "updatedAt": "2026-10-22 15:00",
   "trafficUsedMb": 1280.5,
-  "trafficLimitMb": 10240,
   "version": 1,
   "profiles": [
     {

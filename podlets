@@ -1,11 +1,11 @@
 {
-  "subscriptionName": "Podlets Tools",
+  "subscriptionName": "Podlets Tools 3",
   "description": "Обход белых списков. Используйте при активных ограничениях.",
   "trafficUsedMb": 1337,
   "trafficLimitMb": 0,
   "profiles": [
     {
-      "name": "🇸🇪 Стокгольм #1",
+      "name": "🇸🇪 Стокгольм #2",
       "peer": "138.124.29.213",
       "port": 9000,
       "password": "podlets",

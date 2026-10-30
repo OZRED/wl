@@ -1,17 +1,16 @@
 {
-  "subscriptionName": "Podlets Tools 3",
-  "description": "Обход белых списков. Используйте при активных ограничениях. Обход белых списков. Используйте при активных ограничениях. Обход белых списков. Используйте при активных ограничениях. Обход белых списков. Используйте при активных ограничениях. ",
-  "trafficUsedMb": 1337,
+  "subscriptionName": "Podlets Tools 4",
+  "description": "Обход белых списков. Используйте при активных ограничениях.",
+  "trafficUsedMb": 1488,
   "trafficLimitMb": 0,
   "profiles": [
     {
-      "name": "🇸🇪 Стокгольм #2",
-      "peer": "1.3.3.7",
+      "name": "🇸🇪 Стокгольм #1",
+      "peer": "138.124.29.213",
       "port": 9000,
       "password": "podlets",
       "hashes": "_OwGt4d-RZTe7TAG4vEpwlWlg3k258vuYMw6fYn75sM,VnHW6doGcirP6h24GMay0kLFkdvAzTdaltvIHNX3z7M",
-      "workers": 27,
-      "trafficMb": 1280.5
+      "workers": 27
     }
   ]
 }
